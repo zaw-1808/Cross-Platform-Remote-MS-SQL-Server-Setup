@@ -6,7 +6,6 @@ MacBook (macOS) ပေါ်ရှိ VS Code မှတစ်ဆင့် Local 
 
 # 🚀 Cross-Platform Remote MS SQL Server Setup
 
-### Acer Windows Laptop  ➔  MacBook Air M4
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
