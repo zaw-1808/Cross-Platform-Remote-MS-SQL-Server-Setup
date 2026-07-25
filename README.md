@@ -1,5 +1,5 @@
 # Cross-Platform-Remote-MS-SQL-Server-Setup
-MacBook Air M4 (macOS) ပေါ်ရှိ VS Code မှတစ်ဆင့် Local Network ထဲရှိ Windows Laptop (Acer) ပေါ်တွင် Host လုပ်ထားသော MS SQL Server Express သို့ အဝေးမှ အောင်မြင်စွာ ချိတ်ဆက်ပြီး Database စီမံခန့်ခွဲမှု ပတ်ဝန်းကျင်တစ်ခုကို တည်ဆောက်ခဲ့သည်။
+MacBook (macOS) ပေါ်ရှိ VS Code မှတစ်ဆင့် Local Network ထဲရှိ Windows Laptop ပေါ်တွင် Host လုပ်ထားသော MS SQL Server Express သို့ အဝေးမှ အောင်မြင်စွာ ချိတ်ဆက်ပြီး Database စီမံခန့်ခွဲမှု ပတ်ဝန်းကျင်တစ်ခုကို တည်ဆောက်ခဲ့သည်။
 
  💻 macOS (VS Code) ──── 📡 Wi-Fi ──── 🖥️ Windows (MS SQL)
 <div align="center">
